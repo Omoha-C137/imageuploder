@@ -4,7 +4,7 @@
 This is a simple image uploader web application built using HTML, CSS, and JavaScript. It allows users to upload, view, and manage their images.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/Omoha-C137/image-uploader.git`
+1. Clone the repository: `git clone https://github.com/Omoha-C137/image-uploder.git`
 2. Open `index.html` in your preferred browser.
 
 ## Usage
